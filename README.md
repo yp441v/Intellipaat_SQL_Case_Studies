@@ -1,0 +1,2 @@
+# Intellipaat_SQL_Case_Studies
+Case_Studies
